@@ -1,0 +1,45 @@
+{
+    "title": { "first": "İş", "second": "Başarısı", "third": "için <br />Endüstriyel Teknoloji" },
+    "subtitle": "Our Skill",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using content here.",
+    "items": [
+        {
+            "label": "Damper Sistem Tasarımı",
+            "value": "95"
+        },
+        {
+            "label": "Özelleştirilmiş Mühendislik Çözümleri",
+            "value": "90"
+        },
+        {
+            "label": "Enerji Verimliliği Optimizasyonu",
+            "value": "85"
+        },
+        {
+            "label": "Endüstri 4.0 Entegrasyonu",
+            "value": "80"
+        },
+        {
+            "label": "Üretim İnovasyonları",
+            "value": "80"
+        },
+        {
+            "label": "Akıllı Otomasyon",
+            "value": "85"
+        },
+        {
+            "label": "Proses Otomasyonu",
+            "value": "88"
+        },
+        {
+            "label": "Verimlilik ve Performans Analizi",
+            "value": "92"
+        }
+
+
+    ],
+    "button": {
+        "label": "More",
+        "link": "/about"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "title": {"first": "Nasıl yardımcı", "second": "Olabiliriz?"},
+    "column1": {
+        "heading": "Endüstriyel Hizmetler",
+        "items": [
+            {
+                "num": "01",
+                "name": "Özel Damper Tasarımları",
+                "icon": "img/icons/md/1.svg",
+                "text": "Fortek Endüstriyel, her müşterinin benzersiz ihtiyaçlarına uygun özel damper çözümleri sunar; yüksek performans ve verimlilik sağlar."
+            },
+            {
+                "num": "02",
+                "name": "Kalite Güvencesi ve Test",
+                "icon": "img/icons/md/2.svg",
+                "text": "Mükemmel ürünler yaratma taahhüdümüz, her damperin katı kalite kontrol süreçlerinden geçmesini sağlar; güvenli ve dayanıklı ürünler üretiriz."
+            },
+            {
+                "num": "03",
+                "name": "Mühendislik Çözümleri",
+                "icon": "img/icons/md/3.svg",
+                "text": "Fortek'in yenilikçi mühendislik yaklaşımı, endüstriyel tesisler için damper sistemlerinin etkinliğini ve sürdürülebilirliğini artırır."
+            }
+        ]
+    },
+    "column2": {
+        "heading": "Endüstriyel Çözümler",
+        "items": [
+            {
+                "num": "04",
+                "name": "Sürdürülebilir Üretim",
+                "icon": "img/icons/md/4.svg",
+                "text": "Fortek Endüstriyel, enerji verimliliğini ve çevresel performansı iyileştirmek için sürdürülebilir üretim teknikleri uygular."
+            },
+            {
+                "num": "05",
+                "name": "Akıllı Otomasyon",
+                "icon": "img/icons/md/5.svg",
+                "text": "05 Akıllı Otomasyon Akıllı damper sistemlerimiz, gelişmiş otomasyon ve kontrol mekanizmaları ile endüstriyel verimliliği maksimize eder."
+            },
+            {
+                "num": "06",
+                "name": "Endüstri 4 Entegrasyonu",
+                "icon": "img/icons/md/6.svg",
+                "text": "Endüstriyel IoT çözümlerimizle, damper sistemlerinizin akıllı ağlara ve veri analitiğine sorunsuzca entegre olmasını sağlarız."
+            }
+        ]
+    }
+}

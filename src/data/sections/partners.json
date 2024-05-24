@@ -1,0 +1,40 @@
+{
+    "title": "test",
+    "items": [
+        {
+            "image": "img/partners/9ca8e52fb8.png",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/25e1fd9af7.jpeg",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/819ffc2f5f.jpeg",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/66310677ac.jpeg",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/e6a20130e6.png",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/ef05d1ccad.png",
+            "alt": "partner",
+            "link": "#."
+        },
+        {
+            "image": "img/partners/f10c6ae01b.png",
+            "alt": "partner",
+            "link": "#."
+        }
+    ]
+}

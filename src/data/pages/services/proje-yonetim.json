@@ -1,0 +1,61 @@
+{
+    "url": "proje-yonetim",
+    "title": "Proje Yönetİmİ ve Tedarİk",
+    "description": "Fortek, proje yönetimi ve mühendislikte optimizasyonla kaliteyi ve verimliliği artırır, maliyetleri düşürür.",
+    "section_services": {
+        "pre_title": "Hizmetlerimiz ve Çözümlerimiz",
+        "title": "Fortek Endüstriyel Proje ve Mühendislik Hizmetleri",
+        "description": "Fortek, enerji santralleri ve endüstriyel tesisler için kapsamlı damper çözümleriyle projelerinizi başarıya ulaştırır.",
+        "service01": {
+            "title": "Proje Tasarımı Danışmanlığı",
+            "description": "Proje ihtiyaçlarınıza uygun damper tasarımları ve malzeme seçiminde uzman rehberliği sağlar."
+        },
+        "service02": {
+            "title": "Damper Tasarımı ve Prototipleme",
+            "description": "Özelleştirilmiş tasarımlar ve prototiplerle damperlerinizi ideal hale getiriyoruz."
+        },
+        "service03": {
+            "title": "Anahtar Teslim Damper Sistemleri",
+            "description": "Projeleriniz için tasarımdan üretime tam hizmet damper çözümleri."
+        },
+        "service04": {
+            "title": "Damper Sistemleri Modernizasyonu",
+            "description": "Mevcut sistemlerinizi en yeni damper teknolojileriyle güncelliyoruz."
+        },
+        "service05": {
+            "title": "Entegrasyon Hizmetleri",
+            "description": "Mevcut operasyonlarınıza damper sistemlerini sorunsuzca entegre ediyoruz."
+        },
+        "service06": {
+            "title": "Destek ve Bakım Hizmetleri",
+            "description": "Her türlü damper sistemi için tam destek ve bakım hizmetleri sunuyoruz."
+        }
+    },
+    "section_products": {
+        "title": "Fortek Endüstriyel Ekipman ve Tedarik Yönetimi",
+        "products1": {
+            "title": "Kapsamlı Ekipman Tedariki",
+            "description": "Geniş ürün yelpazemizle ihtiyacınız olan her türlü aktüatörü ve kontrol sistemi bileşenlerini sağlıyoruz."
+        },
+        "products2": {
+            "title": "Özelleştirilmiş Tedarik Çözümleri",
+            "description": "Enerji santralleri ve endüstriyel operasyonlar için özel alaşımlı sac tedarikleri dahil, her türlü ihtiyaca uygun çözümler üretiyoruz."
+        },
+        "products3": {
+            "title": "Entegre Sistem Tedariki",
+            "description": "Komple by-pass baca ve GT egzoz sistemleri gibi entegre çözümlerle sisteminizin her bileşenini tedariğini sağlarız."
+        },
+        "products4": {
+            "title": "Esnek Tedarik Zinciri Yönetimi",
+            "description": "Talebinize göre ölçeklenebilen tedarik zinciri yönetimimizle zamanında ve etkin teslimatlar yaparız."
+        },
+        "products5": {
+            "title": "Güvenlik ve Kalite Kontrolleri",
+            "description": "Tedarik ettiğimiz her ürün, güvenlik ve kalite standartlarımıza göre titizlikle seçilir ve test edilir."
+        },
+        "products6": {
+            "title": "Sorunsuz Tedarik Süreçleri",
+            "description": "Müşterilerimizin ihtiyaçlarına hızlı yanıt verebilecek şekilde optimize edilmiş sorunsuz tedarik süreçlerimiz vardır."
+        }
+    }
+}

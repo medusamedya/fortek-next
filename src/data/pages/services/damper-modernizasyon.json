@@ -1,0 +1,61 @@
+{
+    "url": "damper-modernizasyon",
+    "title": "Damper Sİstemlerİnİn Modernİzasyonu ve Yönetİmİ",
+    "description": "Fortek'te özel damper bakımı ve saha yönetimi ile maksimum verimlilik sağlayın.",
+    "section_services": {
+        "pre_title": "Hizmetlerimiz ve Çözümlerimiz",
+        "title": "Damper Sistemleri Verimliliği",
+        "description": "Özelleştirilmiş damper sistemlerimiz, endüstriyel tesislerinizin verimliliğini ve performansını artırır, operasyonel maliyetleri düşürür.",
+        "service01": {
+            "title": "Damper Tasarımı Danışmanlığı",
+            "description": "Fortek, damper sistemleriniz için uzman danışmanlık sağlar, en yüksek verimlilik ve performansı garanti eder."
+        },
+        "service02": {
+            "title": "Özelleştirilmiş Damper Prototipleme",
+            "description": "Projelerinize özel damperler tasarlayıp prototiplerini oluşturuyoruz."
+        },
+        "service03": {
+            "title": "Anahtar Teslim Damper Sistemleri",
+            "description": "Komple çözümlerimizle projenizi baştan sona hayata geçiriyoruz."
+        },
+        "service04": {
+            "title": "Damper Sistemlerine Geçiş",
+            "description": "Mevcut sistemlerinizi modern damper sistemlerine dönüştürüyoruz."
+        },
+        "service05": {
+            "title": "Entegrasyon Hizmetleri",
+            "description": "Damper sistemleriniz, mevcut operasyonlarınıza entegre edilir."
+        },
+        "service06": {
+            "title": "Destek ve Bakım Hizmetleri",
+            "description": "Tüm damper sistemleriniz için tam destek ve bakım sağlıyoruz."
+        }
+    },
+    "section_products": {
+        "title": "Fortek Damper Sistemleri Yenileme ve Yönetimi",
+        "products1": {
+            "title": "Modernizasyon Konsültasyon",
+            "description": "Eski sistemlerinizi analiz eder ve modernizasyon için en etkili stratejileri geliştiririz."
+        },
+        "products2": {
+            "title": "Çok Katmanlı Mimariler",
+            "description": "Farklı operasyon tiplerine uyum sağlayacak çok katmanlı damper sistemleri sunuyoruz."
+        },
+        "products3": {
+            "title": "Dış Servis Entegrasyonları",
+            "description": "Ek sistemlerle entegrasyon sağlayarak damper performansını optimize ederiz."
+        },
+        "products4": {
+            "title": "Ölçeklenebilir Yönetim",
+            "description": "Operasyonel İhtiyaçlarınız arttıkça damper sistemlerinizi sorunsuz bir şekilde ölçeklendiriyoruz."
+        },
+        "products5": {
+            "title": "Güvenlik ve Performans İncelemesi",
+            "description": "Sistemlerinizin güvenlik ve performans standartlarını sürekli olarak denetliyoruz."
+        },
+        "products6": {
+            "title": "Sorunsuz Modernizasyon",
+            "description": "Modernizasyon sürecinizi hızlı ve etkili bir şekilde yüretiyoruz."
+        }
+    }
+}

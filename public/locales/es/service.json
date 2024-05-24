@@ -1,0 +1,64 @@
+{
+    "page_title": "Nuestros Servicios",
+
+    "page_subtitle": "Nuestros servicios y soluciones",
+    
+    "main_title": "Producción de amortiguadores",
+    "main_description": "Fortek fabrica industrialmente una amplia gama de amortiguadores para centrales eléctricas e instalaciones industriales que controlarán el flujo de gas o lo cortarán por completo. Al consultar sobre la selección del tipo correcto de amortiguador y actuador, nos aseguramos de que se tomen decisiones de diseño eficientes desde el comienzo del proyecto. Nos aseguramos de que se realice una planificación cuidadosa por adelantado y de que el último cliente reciba los sistemas de amortiguación ideales y que mejor funcionen para cada aplicación. Las actividades de producción se llevan a cabo a la luz de las normas y códigos internacionales. En cada uno de los niveles de fabricación y control de calidad, se cumplen plenamente los requisitos de calidad estipulados por las normas generales como EN, ASME, API. <1>Tipos de amortiguadores producidos en este contexto;</1>",
+
+    "service_li_1": "Amortiguadores de 2 vías",
+    "service_li_2": "Amortiguadores de 3 vías",
+    "service_li_3": "Amortiguadores de guillotina",
+    "service_li_4": "Amortiguadores multihoja",
+    "service_li_5": "Amortiguadores marinos",
+    "service_li_6": "Amortiguadores de mariposas",
+    "service_li_7": "Amortiguadores de sellado completo",
+
+    "mid_description": "En el mundo actual, en el que la eficiencia energética y los valores de emisión son muy importantes, el funcionamiento fiable y sin problemas de las válvulas se ha convertido en una necesidad para las instalaciones modernas. Como resultado de los estudios de I+D llevados a cabo para mejorar los sistemas de válvulas de diseño propio y los sistemas de válvulas existentes, Fortek Endüstriyel ha conseguido proporcionar una estanqueidad del 100% con su sistema de sellado de juntas de aleación metálica y amortiguado por aire. Este sistema que hemos desarrollado ha sido probado en muchos proyectos y ha recibido comentarios positivos y nuestro diseño ha sido aprobado por nuestros clientes. Fortek ofrece grandes ventajas con producciones industriales de diseño especial y plazos de entrega cortos.",
+
+    "section_main_title": "Modernización y gestión de sistemas de amortiguación",
+    
+    "section_li_1_title": "Modernización",
+    "section_li_1_description": "Nuestros servicios de diseño e ingeniería pueden reevaluar los requisitos de funcionamiento de los sistemas más antiguos y asesorarle sobre si se beneficiaría de la renovación o sustitución de compuertas, componentes o controles. Podemos evaluar sus condiciones y requisitos de funcionamiento actuales y ofrecerle nuevas soluciones que mejoren y/o prolonguen la vida útil de los equipos, con el consiguiente ahorro a largo plazo.",
+
+    "section_li_2_title": "Mantenimiento",
+    "section_li_2_description": "Los fallos de las amortiguadoras pueden ser predecibles y evitables; las señales de advertencia suelen ser visibles para los especialistas en amortiguadoras experimentados, y una gestión y un mantenimiento adecuados de sus sistemas de amortiguación pueden ayudar a prolongar la vida útil de los equipos. También somos conscientes de que las amortiguadoras son a menudo una pequeña parte de una gran instalación, pero son fundamentales para el rendimiento, la eficacia, la estabilidad y la rentabilidad del proceso. Teniendo esto en cuenta, el mantenimiento regular por parte del personal de Fortek puede proporcionarle la tranquilidad de que su equipo está en buenas condiciones de trabajo en las que se puede confiar.",
+
+    "section_li_3_title": "Gestión del sitio",
+    "section_li_3_description": "Nuestro equipo de servicios posventa sobre el terreno realiza inspecciones de servicio, mantenimiento rutinario o modernización/revisión completa de instalaciones de volquetes en cualquier industria. Todos los estudios de campo están respaldados por notificaciones de métodos específicos y evaluaciones de riesgos. Nuestro experimentado equipo minimizará cualquier avería en su funcionamiento y le tranquilizará con un informe de servicio detallado, recomendaciones, listas de piezas de repuesto actualizadas y un plan de mejora para la realización de todos los trabajos.",
+
+    "project_main_title": "GESTIÓN DE PROYECTOS Y ADQUISICIONES",
+    "project_main_description": "Es vital determinar el modelo de gestión de proyectos propuesto para mejorar la eficiencia y el rendimiento en los proyectos, reducir el desperdicio de recursos, reducir los costos y la duración de los proyectos, y lograr los niveles de calidad deseados. El éxito de un proyecto es directamente proporcional al esfuerzo dedicado a su planificación, el cuidado mostrado y las capacidades del equipo del proyecto. Por esta razón, la gestión de proyectos es un tema que requiere una planificación detallada, disciplina y una seria sensibilidad en los procesos del proyecto. Fortek Industrial cuenta con la experiencia y el equipamiento tecnológico necesarios para prestar servicios de gestión de proyectos a sus clientes en Turquía y en el extranjero, y en principio, los servicios de gestión de proyectos proceden como un todo de los procesos establecidos en el marco de la norma ISO 9001 QMS. <1>Los servicios que prestamos en este contexto son los siguientes:</1>",
+
+    "project_li_1_title": "Evaluaciones del diseño del proyecto",
+    "project_li_2_title": "Análisis de viabilidad de proyectos",
+    "project_li_3_title": "Disposición del equipo",
+    "project_li_4_title": "Preparación de planos de fabricación y montaje",
+    "project_li_5_title": "Modelización 3D",
+    "project_li_6_title": "Análisis Cfd",
+    "project_li_7_title": "Opciones energéticas potenciales y/o renovables",
+    "project_li_8_title": "Eficiencia energética y tecnologías alternativas de producción",
+
+    "product_main_title": "Gestión de suministro de productos",
+    "product_main_description": "Fortek suministra equipos a nivel mundial para instalaciones industriales y centrales eléctricas. Nuestros equipos producen soluciones prácticas y llevan a cabo la entrega del proyecto centrándose en proporcionar las mejores condiciones de entrega de calidad con un control efectivo de tiempo y costos. <1>Fortek suministra los siguientes productos;</1>",
+
+    "product_li_1_title": "Actuador eléctrico",
+    "product_li_2_title": "Actuador neumático",
+    "product_li_3_title": "Actuador hidráulico",
+    "product_li_4_title": "Posicionador",
+    "product_li_5_title": "Caja de conexiones",
+    "product_li_6_title": "Interruptor de límite",
+    "product_li_7_title": "Prensaestopas",
+    "product_li_8_title": "Soplador",
+    "product_li_9_title": "Calderas",
+    "product_li_10_title": "Sistemas de chimenea de derivación",
+    "product_li_11_title": "Sistemas de escape GT",
+    "product_li_12_title": "Sistemas Hvac",
+    "product_li_13_title": "Productos químicos industriales",
+    "product_li_14_title": "Suministros especiales de chapa de aleación",
+    "product_li_15_title": "Inconel",
+    "product_li_16_title": "Hastelloy",
+    "product_li_17_title": "Avista",
+    "product_li_18_title": "Hitemp Hardox",
+    "product_li_19_title": "Compensador"
+}

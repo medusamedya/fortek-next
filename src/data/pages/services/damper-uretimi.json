@@ -1,0 +1,65 @@
+{
+    "url": "damper-uretimi",
+    "title": "FORTEK DAMPER ÜRETİMİ",
+    "description": "Fortek Endüstriyel, özel damper üretiminde sektörün öncüsüdür; yenilikçi tasarımlar ve sürdürülebilir teknolojilerle kaliteyi sunar.",
+    "section_services": {
+        "pre_title": "Hizmetlerimiz ve Çözümlerimiz",
+        "title": "Damper Üretim Hizmetlerimiz Sizi Öne Çıkarır",
+        "description": "Fortek Endüstriyel, damper üretimindeki derin tecrübesiyle endüstrininizi dönüştürür. Yenilikçi ve özelleştirilmiş çözümlerimizle, işletmenizin verimliliğini ve rekabet gücünü artırıyoruz.",
+        "service01": {
+            "title": "Damper Tasarımı Danışmanlığı",
+            "description": "Fortek, damper sistemleriniz için uzman danışmanlık sağlar, en yüksek verimlilik ve performansı garanti eder."
+        },
+        "service02": {
+            "title": "Özelleştirilmiş Damper Prototipleme",
+            "description": "Her müşterinin ihtiyacına uygun prototiplerle, Fortek mükemmel damper tasarımları sunar."
+        },
+        "service03": {
+            "title": "Anahtar Teslim Damper Üretimi",
+            "description": "Fortek, tasarımdan üretime kadar tam kapsamlı damper üretim hizmetleri sağlar."
+        },
+        "service04": {
+            "title": "Damper Sistemlerinde Yenilik",
+            "description": "Sürekli geliştirdiğimiz üretim yöntemleriyle, damper sistemlerinizi yeni teknolojilerle donatıyoruz."
+        },
+        "service05": {
+            "title": "Entegre Damper Çözümleri",
+            "description": "Fortek, damper sistemlerinizin diğer endüstriyel süreçlerle entegrasyonunu sağlar."
+        },
+        "service06": {
+            "title": "Damper Sistemleri Destek ve Bakım",
+            "description": "Fortek, satış sonrası tam destek ve bakım hizmetleri ile damperlerinizin sürekli çalışmasını sağlar."
+        }
+    },
+    "section_products": {
+        "title": "Fortek Endüstriyel Damper Ürün Çeşitleri",
+        "products1": {
+            "title": "2 Yollu Damperler",
+            "description": "Basit ve etkin gaz akış kontrolü için idealdir."
+        },
+        "products2": {
+            "title": "3 Yollu Damperler",
+            "description": "Esnek gaz yönlendirmesi ve akış dağıtımı sağlar."
+        },
+        "products3": {
+            "title": "Gyrotonic Damperler",
+            "description": "Dinamik akış kontrolü için yenilikçi tasarım."
+        },
+        "products4": {
+            "title": "Çok Kanatlı Damperler",
+            "description": "Mükemmel hava kontrolü ve izolasyon için gelişmiş sistem."
+        },
+        "products5": {
+            "title": "Marin Damperler",
+            "description": "Deniz koşullarına özel dayanıklılık ve performans sunar."
+        },
+        "products6": {
+            "title": "Kelebek Damperler",
+            "description": "Geniş uygulama alanları için kompakt ve verimli çözüm."
+        },
+        "products7": {
+            "title": "Tam Sızdırmaz Damperler",
+            "description": "Kritik ortamlar için maksimum sızdırmazlık garantisi."
+        }
+    }
+}

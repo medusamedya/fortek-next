@@ -1,0 +1,33 @@
+{
+    "title": { "first": "Mühendİslik ve Üretİmde <br />lİder çözümler"},
+    "button": { "label": "İletişime Geçin", "link": "/contact" },
+    "description": "Fortek, endüstriye özel damper sistemleri ve mühendislikte yenilikçi çözümler sunar; verimlilik ve sürdürülebilirliği artırır.",
+    "slides": [
+        {
+            "image": "img/photo/30610bbbab.jpeg"
+        },
+        {
+            "image": "img/photo/ebbead54d6.png"
+        },
+        {
+            "image": "img/photo/fec7cf24d6.png"
+        }
+    ],
+    "items": [
+        {
+            "label": "special_damper_design",
+            "title": "Kişisel Çözümler",
+            "text": "slider_description_1"
+        },
+        {
+            "label": "advanced_engineering_studies",
+            "title": "Tecrübe",
+            "text": "slider_description_2"
+        },
+        {
+            "label": "comprehensive_project_management",
+            "title": "Sonuç Odaklı",
+            "text": "slider_description_3"
+        }
+    ]
+}
