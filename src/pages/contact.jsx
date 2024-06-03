@@ -19,7 +19,11 @@ const Contact = () => {
             <div className="col-lg-8 col-xl-8 mil-mb-120">
               <form>
                 <h4 className="mil-mb-60">
-                  <span className="mil-accent">Bize Kendinizden Bahsedin</span> 
+                  <Trans
+                    i18nKey="page_description"
+                    t={t}
+                    components={{ 1: <span className="mil-accent" /> }}
+                />
                 </h4>
                 <div className="row">
                   <div className="col-lg-6">
