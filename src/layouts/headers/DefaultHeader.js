@@ -135,7 +135,7 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
                   </ul>
                 </li>
                 <li>
-                  <Link href="/sertifikalarimiz">{t("certificates")}</Link>
+                  <Link href="/referanslarimiz">{t("certificates")}</Link>
                 </li>
                 <li>
                   <Link href="/blog">{t("blog")}</Link>

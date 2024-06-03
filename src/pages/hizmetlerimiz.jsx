@@ -13,6 +13,7 @@ const Hizmetlerimiz = () => {
             <PageBanner
                 pageName={`${t("page_title")}`}
                 pageTitle={`${t("page_title")}`}
+                srcLink="/img/banner/bc-1.jpg"
             />
             {/* call to action */}
             <div className="container">
@@ -42,89 +43,6 @@ const Hizmetlerimiz = () => {
                             </p>
                         </div>
                     </div>
-                    <div className="row mil-mb-30-adapt">
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-circle mil-mb-30">
-                                    <span>01</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('service_li_1')}
-                                </h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>02</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('service_li_2')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-mb-30">
-                                    <span>03</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('service_li_3')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-mb-30">
-                                    <span>04</span>
-                                </div>
-                                <h4 className="mil-mb-15">{t('service_li_4')}</h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-circle mil-mb-30">
-                                    <span>05</span>
-                                </div>
-                                <h4 className="mil-mb-15">{t('service_li_5')}</h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>06</span>
-                                </div>
-                                <h4 className="mil-mb-15">{t('service_li_6')}</h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>07</span>
-                                </div>
-                                <h4 className="mil-mb-15">{t('service_li_7')}</h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </section>
 
@@ -234,108 +152,6 @@ const Hizmetlerimiz = () => {
                             </p>
                         </div>
                     </div>
-                    <div className="row mil-mb-30-adapt">
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-circle mil-mb-30">
-                                    <span>01</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_1_title')}
-                                </h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>02</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_2_title')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-mb-30">
-                                    <span>03</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_3_title')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-mb-30">
-                                    <span>04</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_4_title')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-circle mil-mb-30">
-                                    <span>05</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_5_title')}
-                                </h4>
-                                <p>
-                                </p>
-
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>06</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_6_title')}
-                                </h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>07</span>
-                                </div>
-                                <h4 className="mil-mb-15">P
-                                {t('project_li_7_title')}
-                                </h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-xl-4">
-                            <div className="mil-mb-60">
-                                <div className="mil-number-icon mil-lines mil-mb-30">
-                                    <span>08</span>
-                                </div>
-                                <h4 className="mil-mb-15">
-                                    {t('project_li_8_title')}
-                                </h4>
-                                <p>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </section>
 
@@ -356,13 +172,8 @@ const Hizmetlerimiz = () => {
                         </div>
                     </div>
                     <div className="row mil-mb-30-adapt">
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/1.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">01</span> {t('product_li_1_title')}
@@ -372,13 +183,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/2.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">02</span> {t('product_li_2_title')}
@@ -388,13 +194,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/3.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">03</span> {t('product_li_3_title')}
@@ -404,13 +205,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/4.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">04</span> {t('product_li_4_title')}
@@ -420,13 +216,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/5.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">05</span> {t('product_li_5_title')}
@@ -436,13 +227,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/6.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">06</span> {t('product_li_6_title')}
@@ -452,13 +238,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/7.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">07</span> {t('product_li_7_title')}
@@ -468,13 +249,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/8.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">08</span> {t('product_li_8_title')}
@@ -484,13 +260,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/9.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">09</span> {t('product_li_9_title')}
@@ -500,13 +271,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/10.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">10</span> {t('product_li_10_title')}
@@ -516,13 +282,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/11.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">11</span> {t('product_li_11_title')}
@@ -532,13 +293,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/12.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">12</span> {t('product_li_12_title')}
@@ -548,13 +304,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/13.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">13</span> {t('product_li_13_title')}
@@ -564,13 +315,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/14.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">14</span> {t('product_li_14_title')}
@@ -580,13 +326,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/15.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">15</span> {t('product_li_15_title')}
@@ -596,13 +337,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/16.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">16</span> {t('product_li_16_title')}
@@ -612,13 +348,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/17.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">17</span> {t('product_li_17_title')}
@@ -628,13 +359,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/18.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">18</span> {t('product_li_18_title')}
@@ -644,13 +370,8 @@ const Hizmetlerimiz = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 col-xl-6">
+                        <div className="col-lg-4 col-xl-4">
                             <div className="mil-service-item mil-without-lines mil-mb-60">
-                                <div className="mil-service-icon">
-                                    <div className="mil-icon-frame mil-icon-frame-md">
-                                        <img src="/img/icons/md/19.svg" alt="icon" />
-                                    </div>
-                                </div>
                                 <div className="mil-service-text">
                                     <h5 className="mil-mb-30">
                                         <span className="mil-accent">19</span> {t('product_li_19_title')}

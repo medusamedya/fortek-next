@@ -20,10 +20,68 @@ const Careers = (props) => {
 
   return (
     <Layouts>
-      <PageBanner pageName={`${t("page_tite")}`} pageTitle={`${t("page_tite")}`} />
+      <PageBanner 
+        pageName={`${t("page_tite")}`} 
+        pageTitle={`${t("page_tite")}`}
+        srcLink="/img/banner/bc-1.jpg"
+      />
+
+     <div className="mil-partners mil-partners-spaces">
+        <div className="container">
+          <div className="mil-partners-frame">
+            <a href="#.">
+              <img src="/img/reference/aksa.jpg" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/clet.jpeg" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/enpro.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/erdemir.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/hamburger.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/kartonsan.png" alt="partner" />
+            </a>
+          </div>
+          <div className="mil-partners-frame">
+            <a href="#.">
+              <img src="/img/reference/kasar-dual.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/kastamonu.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/mimsan.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/nuh.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/nuratli-karton.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/oyak.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/petkim.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/tosyali.png" alt="partner" />
+            </a>
+            <a href="#.">
+              <img src="/img/reference/tupras.png" alt="partner" />
+            </a>
+          </div>
+        </div>
+      </div>
 
  {/* counters */}
- <section className="mil-counters mil-deep-bg mil-p-120-90">
+  <section className="mil-counters mil-deep-bg mil-p-120-90">
         <div className="container">
           <div className="row">
             <div className="col-xl-3">

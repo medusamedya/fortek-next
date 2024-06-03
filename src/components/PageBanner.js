@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { useTranslation } from "react-i18next";
 
-const PageBanner = ({ pageTitle, pageName }) => {
+const PageBanner = ({ pageTitle, pageName, srcLink = "" }) => {
   const { t } = useTranslation("common")
 
   return (
     <div className="mil-banner-sm mil-deep-bg">
       <img
-        src="img/deco/map.png"
+        src={srcLink}
         alt="background"
         className="mil-background-image"
       />
