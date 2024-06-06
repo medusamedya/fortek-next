@@ -27,6 +27,7 @@ const Solution1 = () => {
       <PageBanner
                 pageName={`${t("page_title")}`}
                 pageTitle={`${t("page_title")}`}
+                srcLink="/img/banner/for-5.jpg"
       />
 
       {/* call to action */}

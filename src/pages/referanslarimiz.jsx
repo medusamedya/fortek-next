@@ -44,11 +44,12 @@ const Careers = (props) => {
             <a href="#.">
               <img src="/img/reference/hamburger.png" alt="partner" />
             </a>
+            
+          </div>
+          <div className="mil-partners-frame">
             <a href="#.">
               <img src="/img/reference/kartonsan.png" alt="partner" />
             </a>
-          </div>
-          <div className="mil-partners-frame">
             <a href="#.">
               <img src="/img/reference/kasar-dual.png" alt="partner" />
             </a>
@@ -61,6 +62,9 @@ const Careers = (props) => {
             <a href="#.">
               <img src="/img/reference/nuh.png" alt="partner" />
             </a>
+            
+          </div>
+          <div className="mil-partners-frame">
             <a href="#.">
               <img src="/img/reference/nuratli-karton.png" alt="partner" />
             </a>

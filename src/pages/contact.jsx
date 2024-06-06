@@ -11,6 +11,8 @@ const Contact = () => {
       <PageBanner
                 pageName={`${t("page_title")}`}
                 pageTitle={`${t("page_title")}`}
+                srcLink="/img/banner/for-1.jpg"
+
       />
       {/* contact */}
       <section className="mil-contact mil-p-120-0">

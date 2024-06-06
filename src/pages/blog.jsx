@@ -15,6 +15,7 @@ const Blog = () => {
       <PageBanner
         pageName={"Blog"}
         pageTitle={"Blog"}
+        srcLink="/img/banner/bc-2.jpg"
       />
       {/* blog */}
       <section className="mil-blog mil-p-120-0">
