@@ -9,10 +9,9 @@ const Contact = () => {
   return (
     <Layouts>
       <PageBanner
-                pageName={`${t("page_title")}`}
-                pageTitle={`${t("page_title")}`}
-                srcLink="/img/banner/for-1.jpg"
-
+          pageName={`${t("page_title")}`}
+          pageTitle={`${t("page_title")}`}
+          srcLink="/img/banner/for-1.jpg"
       />
       {/* contact */}
       <section className="mil-contact mil-p-120-0">
@@ -63,22 +62,7 @@ const Contact = () => {
                       />
                     </div>
                   </div>
-                  {/* <div className="col-lg-6">
-                    <div className="mil-input-frame mil-dark-input mil-mb-30">
-                      <label className="mil-h6 mil-dark">
-                        <span>Company</span>
-                      </label>
-                      <input type="text" placeholder="Your company name" />
-                    </div>
-                  </div>
-                  <div className="col-lg-6 mil-mb-30">
-                    <div className="mil-input-frame mil-dark-input mil-mb-30">
-                      <label className="mil-h6 mil-dark">
-                        <span>Role</span>
-                      </label>
-                      <input type="text" placeholder="Your role" />
-                    </div>
-                  </div> */}
+                  
                 </div>
                 {/* <h4 className="mil-mb-60">
                   <span className="mil-accent">02.</span> What Can We Help You

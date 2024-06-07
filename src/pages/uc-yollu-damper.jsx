@@ -55,13 +55,6 @@ const Solution1 = () => {
                 </h5>
               </div>
             </div>
-            {/* <div className="col-lg-4">
-              <div className="mil-adaptive-right">
-                <a href="#." className="mil-button mil-border mil-mb-30">
-                  <span>Get in Touch</span>
-                </a>
-              </div>
-            </div> */}
           </div>
         </div>
       </section>

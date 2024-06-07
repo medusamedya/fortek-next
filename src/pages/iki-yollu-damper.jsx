@@ -51,7 +51,7 @@ const Solution1 = () => {
                   </div>
                 </div>
                 <h5>
-                  {t('page_description')}
+                  {t('page_description')} 
                 </h5>
               </div>
             </div>
@@ -70,20 +70,6 @@ const Solution1 = () => {
         <div className="mil-divider" />
       </div> */}
       {/* title */}
-      {/* <section className="mil-p-120-0">
-        <div className="container">
-          <div className="mil-text-center mil-mb-90">
-            <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
-              Consulting and Development
-            </span>
-            <h2>
-              AI Consulting and Development Company <br /> With{" "}
-              <span className="mil-accent">Extensive Know How</span>
-            </h2>
-          </div>
-        </div>
-      </section> */}
-      {/* title end */}
       {/* about */}
       <Solution1About />
       {/* about end */}

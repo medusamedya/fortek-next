@@ -32,7 +32,6 @@ const Solution1 = () => {
 
       />
 
-      {/* call to action */}
       <section className="mil-p-120-90">
         <div
           className="mil-deco"
