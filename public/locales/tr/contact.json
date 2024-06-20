@@ -8,5 +8,7 @@
     "email": "Email",
     "phone": "Telefon",
     "description": "Talep İçeriği",
-    "send": "Talebini Oluştur"
+    "send": "Talebini Oluştur",
+    "form_submit_error": "Hay aksi! Bir şeyler ters gitti.",
+    "form_submit_success": "Mesajınız gönderilmiştir."
 }

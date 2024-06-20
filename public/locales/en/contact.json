@@ -8,5 +8,7 @@
     "email": "Email",
     "phone": "Phone",
     "description": "Request Details",
-    "send": "Submit Request"
+    "send": "Submit Request",
+    "form_submit_error": "Oops! Something went wrong.",
+    "form_submit_success": "Your message sent successfully."
 }

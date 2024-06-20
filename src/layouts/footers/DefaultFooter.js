@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { useTranslation } from "react-i18next";
 
 const DefaultFooter = () => {
@@ -6,7 +7,7 @@ const DefaultFooter = () => {
   return (
     <footer className="mil-dark-bg">
       <img
-        src="img/deco/map.png"
+        src="/img/deco/map.png"
         alt="background"
         className="mil-footer-bg"
       />
@@ -111,7 +112,7 @@ const DefaultFooter = () => {
       </div>
       <div className="mil-footer-bottom">
         <div className="container">
-          <p className="mil-text-sm mil-light">© Medusa Global 2024.</p>
+          <p className="mil-text-sm mil-light">© <Link href="https://medusamedya.com.tr">Medusa Medya</Link> 2024.</p>
           <p className="mil-text-sm mil-light">{t("copyright")}</p>
         </div>
       </div>
