@@ -56,6 +56,15 @@ const Solution1About = () => {
                       <li>
                         {t('gen_li_2')}
                       </li>
+                      <li>
+                        {t('gen_li_3')}
+                      </li>
+                      <li>
+                        {t('gen_li_4')}
+                      </li>
+                      <li>
+                        {t('gen_li_5')}
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -102,7 +111,7 @@ const Solution1About = () => {
                       />
                     </div>
                   </div>
-                  <h5>                    
+                  <h5>
                     {t('tech_title')}
                   </h5>
                 </div>

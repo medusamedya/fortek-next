@@ -53,6 +53,15 @@ const Solution1About = () => {
                       <li>
                         {t('gen_li_2')}
                       </li>
+                      <li>
+                        {t('gen_li_3')}
+                      </li>
+                      <li>
+                        {t('gen_li_4')}
+                      </li>
+                      <li>
+                        {t('gen_li_5')}
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -105,13 +114,13 @@ const Solution1About = () => {
                   <div className="col-lg-6">
                     <h6>{t('tech_pressure_title')}</h6>
                     <p>
-                     {t('tech_pressure_description')}
+                      {t('tech_pressure_description')}
                     </p>
                   </div>
                   <div className="col-lg-6">
                     <h6>{t('tech_heat_title')}</h6>
                     <p>
-                     {t('tech_heat_description')}
+                      {t('tech_heat_description')}
                     </p>
                   </div>
                 </div>

@@ -52,6 +52,15 @@ const Solution1About = () => {
                       <li>
                         {t('gen_li_2')}
                       </li>
+                      <li>
+                        {t('gen_li_3')}
+                      </li>
+                      <li>
+                        {t('gen_li_4')}
+                      </li>
+                      <li>
+                        {t('gen_li_5')}
+                      </li>
                     </ul>
                   </div>
                 </div>
@@ -98,11 +107,11 @@ const Solution1About = () => {
                       />
                     </div>
                   </div>
-                   {t('tech_title')}
+                  {t('tech_title')}
                 </div>
                 <div className="row mil-mb-60">
                   <div className="col-lg-6">
-                   <h6>{t('tech_pressure_title')}</h6>
+                    <h6>{t('tech_pressure_title')}</h6>
                     <p>
                       {t('tech_pressure_description')}
                     </p>
@@ -277,13 +286,13 @@ const Solution1About = () => {
             className="mil-active"
             onClick={clickedTabsSliderButton}
           >
-           <span>{t('gen_title')}</span>
+            <span>{t('gen_title')}</span>
           </a>
           <a
             href="#tab2"
             onClick={clickedTabsSliderButton}
           >
-             <span>{t('tech_title')}</span>
+            <span>{t('tech_title')}</span>
           </a>
           {/* <a
             href="#tab3"

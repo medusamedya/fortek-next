@@ -51,7 +51,16 @@ const Solution1About = () => {
                     <ul>
                       <li>{t('gen_li_1')}</li>
                       <li>
-                       {t('gen_li_2')}
+                        {t('gen_li_2')}
+                      </li>
+                      <li>
+                        {t('gen_li_3')}
+                      </li>
+                      <li>
+                        {t('gen_li_4')}
+                      </li>
+                      <li>
+                        {t('gen_li_5')}
                       </li>
                     </ul>
                   </div>
