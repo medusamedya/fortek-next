@@ -1,11 +1,8 @@
 {
     "page_title": "Hizmetlerimiz",
-
     "page_subtitle": "Hizmetlerimiz ve Çözümlerimiz",
-    
     "main_title": "Damper Üretimi",
-    "main_description": "Fortek endüstriyel olarak, enerji santralleri veendüstriyel tesisler icin gaz akışını kontrol edecek ya da tamsızdırmaz şekilde kesecek çok çeşitli damperler imal etmekteyiz. Doğru damper ve aktüatör tipinin seçilmesi konusundadanışmanlık yaparak ve projenin başlangıcından itibaren enverimli tasarım seçimlerinin yapılmasını sağlamaktayız. Önceden dikkatli bir planlama yapılması, son müşterinin her uygulama için ideal ve en iyi çalışan damper sistemlerini almasını sağlıyoruz. Üretim faaliyetleri uluslararası standart ve kodların ışığında gerçekleştirilmektedir. İmalat ve kalite kontrol kademelerininher birinde yine EN, ASME, API gibi genel standartlarınınöngördüğü kalite gereklikleri eksiksiz olarak karşılanmaktadır.",
-
+    "main_description": "Fortek endüstriyel olarak, enerji santralleri ve endüstriyel tesisler icin gaz akışını kontrol edecek ya da tam sızdırmaz şekilde kesecek çok çeşitli damperler imal etmekteyiz. Doğru damper ve aktüatör tipinin seçilmesi konusunda danışmanlık yaparak ve projenin başlangıcından itibaren en verimli tasarım seçimlerinin yapılmasını sağlamaktayız. Önceden dikkatli bir planlama yapılması, son müşterinin her uygulama için ideal ve en iyi çalışan damper sistemlerini almasını sağlıyoruz. Üretim faaliyetleri uluslararası standart ve kodların ışığında gerçekleştirilmektedir. İmalat ve kalite kontrol kademelerinin her birinde yine EN, ASME, API gibi genel standartlarının öngördüğü kalite gereklikleri eksiksiz olarak karşılanmaktadır.",
     "service_li_1": "2 Yollu Damper",
     "service_li_2": "3 Yollu Damper",
     "service_li_3": "Giyotin Damperler",
@@ -13,23 +10,16 @@
     "service_li_5": "Marine Damperler",
     "service_li_6": "Kelebek Damperler",
     "service_li_7": "Tam Sızdırmalık Damperleri",
-
-    "mid_description": "Enerji verimliliğinin ve emisyon değerlerinin çok önemli olduğugünümüzde, klapelerin güvenilir ve sorunsuz bir şekilde calışması,modern tesisler için bir zorunluluk haline gelmiştir. Fortekendüstriyel, kendi tasarladığı klape sistemlerini ve hali hazırdamevcut klape sistemlerini geliştirmek icin yaptığı Ar-Geçalışmaları sonucunda, hava yastıklamalı & metal alaşım contal ısızdırmazlık sistemi ile %100 seviyelerinde sızdırmazlık sağlamayıbaşarmıştır. Geliştirdiğimiz bu sistem bir çok projede test edilerek,olumlu geri dönüşler almış ve tasarımımız müşterilerimiztarafından da onaylanmıştır. Fortek endüstriyel, özel tasarımimalatlar ve kısa teslim süreleri ile büyük avantajlarsağlamaktadır.",
-
+    "mid_description": "Enerji verimliliğinin ve emisyon değerlerinin çok önemli olduğu günümüzde, klapelerin güvenilir ve sorunsuz bir şekilde calışması, modern tesisler için bir zorunluluk haline gelmiştir. Fortek endüstriyel, kendi tasarladığı klape sistemlerini ve hali hazırda mevcut klape sistemlerini geliştirmek icin yaptığı Ar-Ge çalışmaları sonucunda, hava yastıklamalı & metal alaşım contalı sızdırmazlık sistemi ile %100 seviyelerinde sızdırmazlık sağlamayı başarmıştır. Geliştirdiğimiz bu sistem bir çok projede test edilerek, olumlu geri dönüşler almış ve tasarımımız müşterilerimiz tarafından da onaylanmıştır. Fortek endüstriyel, özel tasarım imalatlar ve kısa teslim süreleri ile büyük avantajlar sağlamaktadır.",
     "section_main_title": "Damper Sistemlerinin Modernizasyonu ve Yönetimi",
-    
     "section_li_1_title": "Modernizasyon",
-    "section_li_1_description": "Tasarım ve mühendislik hizmetlerimiz,eski sistemlerin işletimgereksinimlerini yenidendeğerlendirebilir ve damperlerin,bileşenlerin veya kontrollerinyenilenmesinden veyadeğiştirilmesinden yararlanıpfaydalanamayacağınıza dairtavsiyelerde bulunabilir. Mevcutçalışma koşullarınızı vegereksinimlerinizi değerlendirebilir veekipmanın ömrünü iyileştirecekve/veya uzatarak uzun vadeli tasarrufsağlayacak yeni çözümler sunabiliriz.",
-
+    "section_li_1_description": "Tasarım ve mühendislik hizmetlerimiz, eski sistemlerin işletim gereksinimlerini yeniden değerlendirebilir ve damperlerin, bileşenlerin veya kontrollerin yenilenmesinden veya değiştirilmesinden yararlanıp faydalanamayacağınıza dair tavsiyelerde bulunabilir. Mevcut çalışma koşullarınızı ve gereksinimlerinizi değerlendirebilir ve ekipmanın ömrünü iyileştirecek ve/veya uzatarak uzun vadeli tasarruf sağlayacak yeni çözümler sunabiliriz.",
     "section_li_2_title": "Bakım",
-    "section_li_2_description": "Damper arızaları öngörülebilir ve önlenebilir olabilir;uyarı işaretleri genellikle deneyimli damperuzmanlarının görebileceği şekilde bulunur ve dampersistemlerinizin uygun şekilde yönetilmesi ve bakımı,ekipmanın ömrünün uzatılmasına yardımcı olabilir.Damperlerin genellikle büyük bir kurulumun küçük bir parçası olduğunu ancak sürecin performansı, verimliliği,istikrarı ve karlılığı açısından kritik öneme sahipolduklarını da biliyoruz. Bunu göz önünde bulundurarak, Fortek personeli tarafından yapılan düzenli bakım,ekipmanınızın güvenilebilecek iyi bir çalışmadurumunda olduğuna dair iç rahatlığı sağlayabilir.",
-
+    "section_li_2_description": "Damper arızaları ön görülebilir ve önlenebilir olabilir; uyarı işaretleri genellikle deneyimli damper uzmanlarının görebileceği şekilde bulunur ve damper sistemlerinizin uygun şekilde yönetilmesi ve bakımı, ekipmanın ömrünün uzatılmasına yardımcı olabilir. Damperlerin genellikle büyük bir kurulumun küçük bir parçası olduğunu ancak sürecin performansı, verimliliği, istikrarı ve karlılığı açısından kritik öneme sahip olduklarını da biliyoruz. Bunu göz önünde bulundurarak, Fortek personeli tarafından yapılan düzenli bakım, ekipmanınızın güvenilebilecek iyi bir çalışma durumunda olduğuna dair iç rahatlığı sağlayabilir.",
     "section_li_3_title": "Saha Yönetimi",
-    "section_li_3_description": "Satış Sonrası Saha Hizmetleri Ekibimiz,herhangi bir sektördeki damperkurulumlarının servis denetimlerini, rutinbakımını veya kapsamlı retrofit / revizyonunusağlamaktadır. Tüm saha çalışmaları belirliyöntem bildirimleri ve riskdeğerlendirmeleriyle desteklenir. Deneyimliekibimiz operasyonunuzdaki herhangi birarızayı en aza indirecek ve ayrıntılı bir servisraporu, tavsiyeler, güncellenmiş yedek parçalisteleri ve tüm işlerin tamamlanmasıyla ilgilibir iyileştirme planı ile güvence verecektir.",
-
+    "section_li_3_description": "Satış Sonrası Saha Hizmetleri Ekibimiz, herhangi bir sektördeki damper kurulumlarının servis denetimlerini, rutin bakımını veya kapsamlı retrofit / revizyonunu sağlamaktadır. Tüm saha çalışmaları belirli yöntem bildirimleri ve risk değerlendirmeleriyle desteklenir. Deneyimli ekibimiz operasyonunuzdaki herhangi bir arızayı en aza indirecek ve ayrıntılı bir servis raporu, tavsiyeler, güncellenmiş yedek parça listeleri ve tüm işlerin tamamlanmasıyla ilgili bir iyileştirme planı ile güvence verecektir.",
     "project_main_title": "Proje tasarımı değerlendirmeleri",
-    "project_main_description": "Projelerde verim ve performansı geliştirmek,kaynak israfını azaltmak, maliyetleri ve projesürelerini düşürmek,istenen kalite seviyelerineerişmek için, yapılmasıönerilen proje yönetimmodelini tespit etmek hayati öneme haizdir. Bir projenin başarısı, onu planlarken harcanançaba, gösterilen özen ve proje ekibininyetenekleri ile doğru orantılıdır. Bu nedenleproje yönetimi, detaylı planlama, disiplin veproje süreçlerinde ciddi hassasiyetgerektirenbir konudur. Fortek Endüstriyel, yurt içi ve yurt dışında,müşterilerineproje yönetimi konusundahizmet verebilecek deneyim ve gerekliteknolojik donanıma sahiptir ve prensip olarak, proje yönetim hizmetleri ISO 9001 KYS çerçevesinde oluşturulmuş süreçlerin birbütünü şeklinde ilerlemektedir.",
-
+    "project_main_description": "Projelerde verim ve performansı geliştirmek, kaynak israfını azaltmak, maliyetleri ve proje sürelerini düşürmek, istenen kalite seviyelerine erişmek için, yapılması önerilen proje yönetim modelini tespit önemlidir. Bir projenin başarısı, onu planlarken harcanan çaba, gösterilen özen ve proje ekibinin yetenekleri ile doğru orantılıdır. Bu nedenle proje yönetimi, detaylı planlama, disiplin ve proje süreçlerinde ciddi hassasiyet gerektiren bir konudur. Fortek Endüstriyel, yurt içi ve yurt dışında, müşterilerine proje yönetimi konusunda hizmet verebilecek deneyim ve gerekli teknolojik donanıma sahiptir ve prensip olarak, proje yönetim hizmetleri ISO 9001 KYS çerçevesinde oluşturulmuş süreçlerin bir bütünü şeklinde ilerlemektedir.",
     "project_li_1_title": "Proje tasarımı değerlendirmeleri",
     "project_li_2_title": "Proje fizibilite analizleri",
     "project_li_3_title": "Ekipman yerleşimi",
@@ -38,10 +28,8 @@
     "project_li_6_title": "Cfd analizleri",
     "project_li_7_title": "Potansiyel ve/veya yenilenebilir enerjiseçenekleri",
     "project_li_8_title": "Enerji verimliliği ve alternatif üretimteknolojileri",
-
     "product_main_title": "Ürün Tedarik Yönetimi",
-    "product_main_description": "Fortek endüstriyel tesisler ve enerji santralleri için globaldüzeyde ekipman tedarikleri yapmaktadır. Ekiplerimizpratik çözümler üreterek, etkin zaman ve maliyet kontrolüile en kaliteli teslim şartlarının sağlamaya odaklanarak projeteslimini gerçekleştir. <1>Fortek aşağıdaki ürünlerin tedariğini sağlar;</1>",
-
+    "product_main_description": "Fortek endüstriyel tesisler ve enerji santralleri için global düzeyde ekipman tedarikleri yapmaktadır. Ekiplerimiz pratik çözümler üreterek, etkin zaman ve maliyet kontrolü ile en kaliteli teslim şartlarının sağlamaya odaklanarak proje teslimini gerçekleştir. <1>Fortek aşağıdaki ürünlerin tedariğini sağlar;</1>",
     "product_li_1_title": "Elektrikli Aktuatör",
     "product_li_2_title": "Pnömatik Aktuatör",
     "product_li_3_title": "Hidrolik Aktuatör",

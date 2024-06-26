@@ -2,6 +2,7 @@ import PageBanner from "@/src/components/PageBanner";
 import Layouts from "@/src/layouts/Layouts";
 import { useTranslation, Trans } from "react-i18next";
 import { useState } from "react";
+import { Mail, MapPin, Phone } from "lucide-react";
 
 const Contact = () => {
   const { t } = useTranslation("contact");
@@ -159,7 +160,59 @@ const Contact = () => {
               </form>
               {message && <p>{message}</p>}
             </div>
+            <div className="col-lg-4 col-xl-4 mil-mb-120">
+              <h3 style={{
+                marginBottom: "2rem"
+              }}>
+                {t("right_subtitle")}
+              </h3>
+              <div style={{
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "start",
+                gap: "2rem"
+              }}>
+                <div style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "1rem"
+                }}>
+                  <Mail style={{
+                    height: "2rem",
+                    width: "2rem"
+                  }} />
+                  <a href="mailto:info@fortekindustrial.com">info@fortekindustrial.com</a>
+                </div>
+                <div style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "1rem"
+                }}>
+                  <Phone style={{
+                    height: "2rem",
+                    width: "2rem"
+                  }} />
+                  <a href="tel:+902329999057">+90 232 999 90 57</a>
+                </div>
+                <div style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "1rem"
+                }}>
+                  <MapPin style={{
+                    height: "4rem",
+                    width: "4rem"
+                  }} />
+                  <span>Kazımdirik Mahallesi, Üniversite Caddesi, Lobi Parlas, No:72/505, Bornova/İzmir/Türkiye</span>
+                </div>
+              </div>
+            </div>
           </div>
+        </div>
+        <div className="row justify-content-between">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d656.8433752050845!2d27.19709721624308!3d38.45321839981117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b963c47a53770d%3A0xc05eaaa32df06753!2sFortek%20End%C3%BCstriyel!5e0!3m2!1str!2str!4v1719386721052!5m2!1str!2str" width="600" height="450" style={{
+            border: "0"
+          }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </section>
     </Layouts>

@@ -1,18 +1,15 @@
 {
     "page_title": "3 Yollu Damperler",
     "page_description": "3 yollu damperler, ana proses ile bypass arasındaki gaz akışını yönlendirmek için kullanılır. Bu damperler izolasyon veya kontrol amaçlı olabilir.",
-
     "gen_title": "Genel Özellikler",
-    "gen_description": "Yatay veya dikeydoğrultu tasarımı Tamamen kaynaklı gövde",
+    "gen_description": "Yatay veya dikey doğrultu tasarımı Tamamen kaynaklı gövde",
     "gen_li_1": "Özelleştirilmiş, kompakt tasarım",
     "gen_li_2": "Düşük maliyetli basit modüllasyonlu çalışma prensibine uygun standart anlak (valve) üzerine diğer boyutlar mevcuttur",
-
     "tech_title": "Teknik Özellikler",
     "tech_pressure_title": "Basınç",
     "tech_pressure_description": "Standart olarak 50kPa (0.5 bar), ancak talep üzerine daha yüksek değerlere de tasarlayabilir.",
     "tech_heat_title": "Sıcaklık",
-    "tech_heat_description": "Standart olarak 60°C (m/s 2.2), ancak talep üzerine 120°C (m/s2.2)F'ye kadar tasarlayabiliriz.",
-
+    "tech_heat_description": "Standart olarak 650°C (m/s 2.2), ancak talep üzerine 1250°C (m/s2.2)F'ye kadar tasarlayabiliriz.",
     "banner_title": "Fortek Özel <1>Damper Sistemleri</1>",
     "banner_subtitle": "Üç Yönlü Damperler İçin Özel Üretim",
     "banner_description": "Fortek'in damperleri, yüksek ısı ve basınç altında mükemmel sızdırmazlık sunacak şekilde tasarlanmıştır. Giriş ve çıkış akışları tamamen ayrıştırılabilecek özelliklerde, endüstrininize özel çözümler sunarız. Özel malzeme ihtiyaçlarınız için B400HT, 310S, Hardox Helium, 316 gibi seçeneklerle üretim yapabiliriz."

@@ -2,7 +2,6 @@
     "page_title": "Contáctenos",
     "page_subtitle": "Vamos a Explorar Sus Oportunidades",
     "page_description": "<1>Cuéntenos Sobre Usted</1>",
-    
     "name": "Nombre",
     "surname": "Apellido",
     "email": "Correo Electrónico",
@@ -10,5 +9,6 @@
     "description": "Detalles de la Solicitud",
     "send": "Enviar Solicitud",
     "form_submit_error": "Ups! Algo salió mal.",
-    "form_submit_success": "Su mensaje fue enviado exitosamente."
+    "form_submit_success": "Su mensaje fue enviado exitosamente.",
+    "right_subtitle": "Puedes contactarnos"
 }

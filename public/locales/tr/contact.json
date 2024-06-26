@@ -2,7 +2,6 @@
     "page_title": "Bize Ulaşın",
     "page_subtitle": "Fırsatlarınızı Keşfedelim",
     "page_description": "<1>Bize Kendinizden Bahsedin</1>",
-    
     "name": "İsim",
     "surname": "Soyisim",
     "email": "Email",
@@ -10,5 +9,6 @@
     "description": "Talep İçeriği",
     "send": "Talebini Oluştur",
     "form_submit_error": "Hay aksi! Bir şeyler ters gitti.",
-    "form_submit_success": "Mesajınız gönderilmiştir."
+    "form_submit_success": "Mesajınız gönderilmiştir.",
+    "right_subtitle": "Bizimle İletişime Geçebilirsiniz"
 }
